@@ -1,0 +1,13 @@
+# Keep this public portfolio strictly limited to reviewed assets.
+.env
+.env.*
+*.sql
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+*.zip
+*.log
+.gitleaks*
+.DS_Store
+Thumbs.db
